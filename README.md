@@ -1,11 +1,11 @@
 # FinanceApp
-Small app to manage your finances
+A small app to manage your finances. Just a project for learning purposes.
 
 -------------------------------------
 
 My very first project. An app where you can input your expenses and categorize them. Done with [PyQt5](https://pypi.org/project/PyQt5/).
 
 ### Main takeaways
-- Learning Qt5
-- Model-View based programming
-- object-oriented programming
+- working with Qt5
+- wow Model-View based programming works
+- wow object-oriented programming works
