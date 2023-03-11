@@ -7,5 +7,5 @@ My very first project. An app where you can input your expenses and categorize t
 
 ### Main takeaways
 - working with Qt5
-- wow Model-View based programming works
-- wow object-oriented programming works
+- how Model-View based programming works
+- how object-oriented programming works
